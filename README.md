@@ -1,3 +1,5 @@
+# Travel List Item Basic React
+This project is listing anything we need to carry for a vacation!
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
